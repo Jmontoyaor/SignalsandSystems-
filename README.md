@@ -5,10 +5,11 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-F37626?logo=jupyter&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-Arduino-E7352C?logo=espressif&logoColor=white)
 
-Portafolio de procesamiento de señales: teoría implementada en Python, ejercicios aplicados y
-proyectos que llevan los conceptos del curso a hardware y aplicaciones reales.
+Portafolio de procesamiento de señales y comunicaciones: teoría implementada en Python,
+ejercicios aplicados y proyectos que llevan los conceptos a hardware de radio y aplicaciones
+reales.
 
-Desarrollado a partir del curso **Señales y Sistemas** de Ingeniería Eléctrica en la
+Diseñado a partir de los **cursos de comunicaciones** de Ingeniería Eléctrica en la
 Universidad Nacional de Colombia.
 
 ---

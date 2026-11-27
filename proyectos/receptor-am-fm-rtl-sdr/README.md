@@ -6,8 +6,8 @@ Muestra en tiempo real la densidad espectral de potencia (PSD) de la señal de R
 audio por la tarjeta de sonido y estima la frecuencia de la moduladora y el índice de
 modulación.
 
-Desarrollado a partir del taller de RTL-SDR del curso de Señales y Sistemas, que partía de
-un script de PSD básico.
+Diseñado a partir del taller de RTL-SDR de los cursos de comunicaciones, que partía de un
+script de PSD básico.
 
 ![Demodulación de señales sintéticas](docs/offline_demo.png)
 
@@ -20,7 +20,8 @@ tono de 1 kHz, la profundidad de AM (m = 0.50) y la desviación de FM (3.00 kHz)
 
 El RTL-SDR entrega muestras complejas **IQ** de un trozo del espectro alrededor de la
 frecuencia sintonizada. Todo lo demás (desplazar la estación, filtrar el canal, demodular y
-llevar el resultado a la banda de audio) ocurre en software, con las herramientas del curso.
+llevar el resultado a la banda de audio) ocurre en software, con las herramientas de
+procesamiento de señales.
 
 | Concepto de señales | Cómo aparece en el proyecto |
 |---|---|
