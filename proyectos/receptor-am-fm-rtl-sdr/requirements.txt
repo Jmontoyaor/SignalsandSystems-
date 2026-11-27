@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+sounddevice
+pyrtlsdr==0.3.0
+# pyrtlsdr 0.3.0 imports pkg_resources, removed in setuptools 81
+setuptools<81
