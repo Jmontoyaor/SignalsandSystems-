@@ -19,6 +19,7 @@ Universidad Nacional de Colombia.
 |---|---|---|
 | [**Analizador de espectro 2.4 GHz**](proyectos/analizador-espectro-2.4ghz-nrf24/) | Barre los 126 canales de la banda ISM de 2.4 GHz con un nRF24L01+ y un ESP32, y muestra la ocupación en una cascada a color con sonificación en tiempo real. | ESP32, nRF24L01+, Arduino, Python |
 | [**Registro de ocupación 2.4 GHz**](proyectos/registro-ocupacion-2.4ghz/) | Registra la banda de 2.4 GHz durante horas y genera un espectrograma de largo plazo, mapas de ocupación por hora y el canal más limpio para enlaces nRF24. | ESP32, nRF24L01+, Python, Matplotlib |
+| [**Receptor AM/FM con RTL-SDR**](proyectos/receptor-am-fm-rtl-sdr/) | Radio definida por software: PSD en tiempo real, demodulación AM y FM con audio sin cortes y estimación del índice de modulación. | RTL-SDR, Python, SciPy |
 | [**De Fourier al WiFi/5G**](proyectos/de-fourier-al-wifi-5g/) | Cadena de transmisión digital paso a paso: FFT, filtrado, señales I/Q con Hilbert y modulación QAM, en un dashboard interactivo. | Python, SciPy, Streamlit |
 
 <p align="center">
